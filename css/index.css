@@ -394,7 +394,7 @@ article#portfolio {
         top: 25px; } }
   article#portfolio section {
     width: 40%;
-    height: 350px;
+    height: 380px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
