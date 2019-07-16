@@ -33,7 +33,7 @@ $(function (){
 
 // JS超連結
 	$(".resume").click(function(){
-		location.href="http://140.115.236.72/demo-personal/zd702/web/c1500242/resume_weilin.pdf";
+		location.href="images/resume_weilin.pdf";
 	})
 	$("#web1").click(function(){
 		location.href="http://www.konglin.com.tw";
