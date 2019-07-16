@@ -42,9 +42,11 @@ $(function (){
 		location.href="http://landuse.hccg.gov.tw/landusePortal/";
 	})
 	$("#web3").click(function(){
-		location.href="http://140.115.236.72/demo-projects/zd702/zd702g3/before/coffee_knowledge.php";
+		alert("如果點了之後過5秒沒顯示 就代表中壢資策會的伺服器掛啦~不好意思");
+		// location.href="http://140.115.236.72/demo-projects/zd702/zd702g3/before/coffee_knowledge.php";
 	})
 	$("#web4").click(function(){
+		alert("如果點了之後過5秒沒顯示 就代表中壢資策會的伺服器掛啦~不好意思");
 		location.href="http://140.115.236.72/demo-personal/zd702/web/c1500242/";
 	})
 	$("#web5").click(function(){
